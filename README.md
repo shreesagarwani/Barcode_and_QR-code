@@ -1,6 +1,6 @@
 # Barcode_and_QR-code
 We will walk you through how to make a barcode and Qr code reader with Python and Machine Learning. 
-This is a great machine learning task to get started with computer vision.
+This is a great machine learning task to get started with the computer vision.
 
 Barcodes and QR codes are very cool and interesting because they store information in a different format. 
 The fun part about them is that we can’t tell what they are storing until we analyze them. 

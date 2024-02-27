@@ -19,7 +19,7 @@ def main():
         frame = read_barcode(frame)
         cv2.imshow('Barcode/QR code reader', frame)
         if cv2.waitKey(1) & 0xFF == 27:
-            break
+             break
     camera.release()
     cv2.destroyAllWindows()
 if __name__ == '__main__':
